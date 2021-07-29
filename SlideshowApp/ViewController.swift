@@ -16,10 +16,10 @@ class ViewController: UIViewController {
     var imageIndex = 0
 
     let imageArr = [
-      UIImage(named: "gazou-1")!,
-      UIImage(named: "gazou-2")!,
-      UIImage(named: "gazou-3")!,
-      UIImage(named: "gazou-4")!
+        UIImage(named: "gazou-1.jpeg")!,
+        UIImage(named: "gazou-2.jpeg")!,
+        UIImage(named: "gazou-3.jpeg")!,
+        UIImage(named: "gazou-4.jpeg")!
     ]
     
     override func viewDidLoad() {
