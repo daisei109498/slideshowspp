@@ -13,6 +13,15 @@
 		B841ACDC26AD87A1001A2ED6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B841ACDA26AD87A1001A2ED6 /* Main.storyboard */; };
 		B841ACDE26AD87A2001A2ED6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B841ACDD26AD87A2001A2ED6 /* Assets.xcassets */; };
 		B841ACE126AD87A2001A2ED6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B841ACDF26AD87A2001A2ED6 /* LaunchScreen.storyboard */; };
+		B841ACEA26AD8960001A2ED6 /* resultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B841ACE926AD8960001A2ED6 /* resultViewController.swift */; };
+		B841ACED26AD8AC3001A2ED6 /* buranko_boy_sad.png in Resources */ = {isa = PBXBuildFile; fileRef = B841ACEC26AD8AC2001A2ED6 /* buranko_boy_sad.png */; };
+		B841ACF226AD8ACD001A2ED6 /* buranko_boy_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = B841ACEF26AD8ACD001A2ED6 /* buranko_boy_smile.png */; };
+		B841ACF326AD8ACD001A2ED6 /* buranko_girl_sad.png in Resources */ = {isa = PBXBuildFile; fileRef = B841ACF026AD8ACD001A2ED6 /* buranko_girl_sad.png */; };
+		B841ACF426AD8ACD001A2ED6 /* buranko_girl_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = B841ACF126AD8ACD001A2ED6 /* buranko_girl_smile.png */; };
+		B861561A26B2331D0026EFC3 /* gazou-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B861561626B2331C0026EFC3 /* gazou-2.jpeg */; };
+		B861561B26B2331D0026EFC3 /* gazou-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B861561726B2331C0026EFC3 /* gazou-3.jpeg */; };
+		B861561C26B2331D0026EFC3 /* gazou-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B861561826B2331C0026EFC3 /* gazou-4.jpeg */; };
+		B861562E26B23A3A0026EFC3 /* gazou-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B861562D26B23A3A0026EFC3 /* gazou-1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		B841ACDD26AD87A2001A2ED6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B841ACE026AD87A2001A2ED6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B841ACE226AD87A2001A2ED6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B841ACE926AD8960001A2ED6 /* resultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultViewController.swift; sourceTree = "<group>"; };
+		B841ACEC26AD8AC2001A2ED6 /* buranko_boy_sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buranko_boy_sad.png; sourceTree = "<group>"; };
+		B841ACEF26AD8ACD001A2ED6 /* buranko_boy_smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buranko_boy_smile.png; sourceTree = "<group>"; };
+		B841ACF026AD8ACD001A2ED6 /* buranko_girl_sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buranko_girl_sad.png; sourceTree = "<group>"; };
+		B841ACF126AD8ACD001A2ED6 /* buranko_girl_smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buranko_girl_smile.png; sourceTree = "<group>"; };
+		B861561626B2331C0026EFC3 /* gazou-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gazou-2.jpeg"; sourceTree = "<group>"; };
+		B861561726B2331C0026EFC3 /* gazou-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gazou-3.jpeg"; sourceTree = "<group>"; };
+		B861561826B2331C0026EFC3 /* gazou-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gazou-4.jpeg"; sourceTree = "<group>"; };
+		B861562D26B23A3A0026EFC3 /* gazou-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gazou-1.jpeg"; path = "../../../../Desktop/gazou-1.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,15 @@
 				B841ACD626AD87A1001A2ED6 /* SceneDelegate.swift */,
 				B841ACD826AD87A1001A2ED6 /* ViewController.swift */,
 				B841ACDA26AD87A1001A2ED6 /* Main.storyboard */,
+				B841ACE926AD8960001A2ED6 /* resultViewController.swift */,
+				B861562D26B23A3A0026EFC3 /* gazou-1.jpeg */,
+				B861561626B2331C0026EFC3 /* gazou-2.jpeg */,
+				B861561726B2331C0026EFC3 /* gazou-3.jpeg */,
+				B861561826B2331C0026EFC3 /* gazou-4.jpeg */,
+				B841ACEF26AD8ACD001A2ED6 /* buranko_boy_smile.png */,
+				B841ACF026AD8ACD001A2ED6 /* buranko_girl_sad.png */,
+				B841ACF126AD8ACD001A2ED6 /* buranko_girl_smile.png */,
+				B841ACEC26AD8AC2001A2ED6 /* buranko_boy_sad.png */,
 				B841ACDD26AD87A2001A2ED6 /* Assets.xcassets */,
 				B841ACDF26AD87A2001A2ED6 /* LaunchScreen.storyboard */,
 				B841ACE226AD87A2001A2ED6 /* Info.plist */,
@@ -124,9 +151,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B841ACED26AD8AC3001A2ED6 /* buranko_boy_sad.png in Resources */,
 				B841ACE126AD87A2001A2ED6 /* LaunchScreen.storyboard in Resources */,
+				B861562E26B23A3A0026EFC3 /* gazou-1.jpeg in Resources */,
+				B841ACF226AD8ACD001A2ED6 /* buranko_boy_smile.png in Resources */,
+				B861561C26B2331D0026EFC3 /* gazou-4.jpeg in Resources */,
+				B861561B26B2331D0026EFC3 /* gazou-3.jpeg in Resources */,
+				B841ACF426AD8ACD001A2ED6 /* buranko_girl_smile.png in Resources */,
 				B841ACDE26AD87A2001A2ED6 /* Assets.xcassets in Resources */,
+				B861561A26B2331D0026EFC3 /* gazou-2.jpeg in Resources */,
 				B841ACDC26AD87A1001A2ED6 /* Main.storyboard in Resources */,
+				B841ACF326AD8ACD001A2ED6 /* buranko_girl_sad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +175,7 @@
 				B841ACD926AD87A1001A2ED6 /* ViewController.swift in Sources */,
 				B841ACD526AD87A1001A2ED6 /* AppDelegate.swift in Sources */,
 				B841ACD726AD87A1001A2ED6 /* SceneDelegate.swift in Sources */,
+				B841ACEA26AD8960001A2ED6 /* resultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
